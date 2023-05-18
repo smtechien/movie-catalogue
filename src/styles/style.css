@@ -220,7 +220,7 @@ footer {
 
 footer #footerTools {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   gap: 8px;
 }
